@@ -1,0 +1,17 @@
+.cartImg {
+  max-width: 100%;
+}
+
+.quantity input[type=number]::-webkit-inner-spin-button,
+.quantity input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+.quantity .countItem {
+  width: 100%;
+}
+
+.quantity .countBtn {
+  width: 50%;
+}
+/*# sourceMappingURL=CartProduct.css.map */
